@@ -7,10 +7,9 @@ Analisis Pola Emisi CO2 pada Kendaraan di Kanada Menggunakan Metode CRISP-DM
 
 ### Struktur File
 ```
-├── main.py
-├── model.pkl
-├── scaler.pkl
-├── requirements.txt
+├── app.py
+├── best_co2_emission_model.pkl
+├── req.txt
 ```
 
 ## Langkah Instalasi
